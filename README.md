@@ -6,8 +6,7 @@ A collection of resources on Human Body.
 ## Contributing
 ``` markdown
 **Here is the Paper Name.**<br>
-*[Author 1](homepage), Author 2, and Author 3.*<br>
-*organization*<br>
+*[Author 1](homepage), Author 2, and Author 3. organization*<br>
 Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
 *Contributor*
 ```
@@ -26,22 +25,22 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ------
 ## Body Model 
-------
+
 ## Body Motion
-------
+
 ## Reconstruction
-------
+
+
 **Learning Implicit Templates for Point-Based Clothed Human Modeling.**<br>
-*Siyou Lin, Hongwen Zhang, and Yebin Liu.*<br>
-*Tsinghua University, Beijing, China*<br>
+*Siyou Lin, Hongwen Zhang, and Yebin Liu. Tsinghua University*<br>
 ECCV 2022. [[PDF](link)] [[Project](https://jsnln.github.io/fite/index.html)] [[Github](https://github.com/jsnln/fite)] <br>
 *wzx*
-------
-#Neural Rendering
-------
+
+## Neural Rendering
+
 ## Cloth
-------
+
 ## Animation
-------
+
 ## Dataset
 
