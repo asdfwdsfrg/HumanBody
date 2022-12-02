@@ -32,17 +32,16 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 ## Reconstruction
 ------
 **Learning Implicit Templates for Point-Based Clothed Human Modeling.**<br>
-
 *Siyou Lin, Hongwen Zhang, and Yebin Liu.*<br>
 *Tsinghua University, Beijing, China*<br>
 ECCV 2022. [[PDF](link)] [[Project](https://jsnln.github.io/fite/index.html)] [[Github](https://github.com/jsnln/fite)] <br>
-*Wzx*
-
+*wzx*
+------
+#Neural Rendering
+------
 ## Cloth
 ------
-
 ## Animation
 ------
-
 ## Dataset
 
