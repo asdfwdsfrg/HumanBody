@@ -12,7 +12,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 ```
 ------
 
-<details><summary>Table of Contents</summary><p>
+## Table of Contents
 
 - [Body Model](#Body-Model)
 - [Body Motion](#Body-Motion)
@@ -21,8 +21,6 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - [Neural Rendering](#Neural-Rendering)
 - [Reconstruction](#Reconstruction)
 - [Dataset](#Dataset)
-</p></details><p></p>
-
 ------
 ## Body Model 
 
@@ -30,10 +28,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## Reconstruction
 
-
 **Learning Implicit Templates for Point-Based Clothed Human Modeling.**<br>
 *Siyou Lin, Hongwen Zhang, and Yebin Liu. Tsinghua University*<br>
-ECCV 2022. [[PDF](link)] [[Project](https://jsnln.github.io/fite/index.html)] [[Github](https://github.com/jsnln/fite)] <br>
+ECCV 2022. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630211.pdf)] [[Project](https://jsnln.github.io/fite/index.html)] [[Github](https://github.com/jsnln/fite)] <br>
 *wzx*
 
 ## Neural Rendering
