@@ -22,9 +22,14 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - [Reconstruction](#Reconstruction)
 - [Dataset](#Dataset)
 ------
-## Body Model 
+## Body Model
 
 ## Body Motion
+
+**C3P: Cross-domain Pose Prior Propagation for Weakly Supervised 3D Human Pose Estimation.**<br>
+*Cunlin Wu, Yang Xiao, Boshen Zhang, Mingyang Zhang, Zhiguo Cao, and Joey Tianyi Zhou. Huazhong University of Science and Technology*<br>
+ECCV 2022. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650544.pdf)] <br>
+*hyh*
 
 ## Reconstruction
 
