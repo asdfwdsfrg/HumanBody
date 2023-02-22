@@ -38,6 +38,10 @@ ECCV 2022. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/13665
 ECCV 2022. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630211.pdf)] [[Project](https://jsnln.github.io/fite/index.html)] [[Github](https://github.com/jsnln/fite)] <br>
 *wzx*
 
+**Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering.**<br>
+*Mingfei Chen, Jianfeng Zhang, and Shuicheng Yan. Sea AI Lab*<br>
+ECCV 2022. [[PDF](https://arxiv.org/pdf/2112.04312.pdf)] [[Github](https://github.com/sail-sg/GP-Nerf)] <br>
+*wzx*
 ## Neural Rendering
 
 ## Cloth
@@ -45,4 +49,9 @@ ECCV 2022. [[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/13663
 ## Animation
 
 ## Dataset
+**AIST++ Dance Motion Dataset**<br>
+Publications：**AI Choreographer: Music Conditioned 3D Dance Generation with AIST++**<br>
+Project： https://google.github.io/aistplusplus_dataset/factsfigures.html<br>
+Description: The AIST++ Dance Motion Dataset is constructed from the AIST Dance Video DB. With multi-view videos, an elaborate pipeline is designed to estimate the camera parameters, 3D human keypoints and 3D human dance motion sequences
+
 
